@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "nombre": "Plaza de Armas del Cusco",
+    "descripcion": "Corazón histórico de la ciudad, rodeada de catedrales coloniales y portales con arquitectura inca",
+    "direccion": "Plaza de Armas, Cusco",
+    "distrito": "Cusco",
+    "coordenadas": {
+      "lat": -13.5164,
+      "lng": -71.9784
+    },
+    "categoria": "Plaza",
+    "capacidad": 5000,
+    "servicios": ["Estacionamiento", "Restaurantes", "Tiendas", "Seguridad"],
+    "accesibilidad": "Parcial"
+  },
+  {
+    "id": "2", 
+    "nombre": "Fortaleza de Sacsayhuamán",
+    "descripcion": "Complejo arqueológico inca con impresionantes muros de piedra y vistas panorámicas de la ciudad",
+    "direccion": "Sacsayhuamán, Cusco",
+    "distrito": "Cusco",
+    "coordenadas": {
+      "lat": -13.5089,
+      "lng": -71.9826
+    },
+    "categoria": "Sitio Arqueológico",
+    "capacidad": 10000,
+    "servicios": ["Estacionamiento", "Baños", "Guías", "Seguridad"],
+    "accesibilidad": "Limitada"
+  },
+  {
+    "id": "3",
+    "nombre": "Centro Qosqo de Arte Nativo",
+    "descripcion": "Institución cultural dedicada a preservar y difundir el arte y folklore cusqueño",
+    "direccion": "Av. El Sol 604, Cusco",
+    "distrito": "Cusco",
+    "coordenadas": {
+      "lat": -13.5156,
+      "lng": -71.9787
+    },
+    "categoria": "Centro Cultural",
+    "capacidad": 800,
+    "servicios": ["Auditorio", "Escenario", "Sonido", "Iluminación"],
+    "accesibilidad": "Completa"
+  },
+  {
+    "id": "4",
+    "nombre": "Barrio de San Blas",
+    "descripcion": "Barrio bohemio conocido por sus talleres de artesanos, galerías de arte y arquitectura colonial",
+    "direccion": "San Blas, Cusco",
+    "distrito": "Cusco",
+    "coordenadas": {
+      "lat": -13.5127,
+      "lng": -71.9751
+    },
+    "categoria": "Barrio Artístico",
+    "capacidad": 2000,
+    "servicios": ["Talleres", "Galerías", "Cafeterías", "Hospedajes"],
+    "accesibilidad": "Parcial"
+  },
+  {
+    "id": "5",
+    "nombre": "Mercado San Pedro",
+    "descripcion": "Mercado tradicional con productos locales, comida típica y artesanías",
+    "direccion": "Mercado San Pedro, Cusco",
+    "distrito": "Cusco",
+    "coordenadas": {
+      "lat": -13.5183,
+      "lng": -71.9803
+    },
+    "categoria": "Mercado",
+    "capacidad": 1500,
+    "servicios": ["Restaurantes", "Tiendas", "Baños", "Estacionamiento"],
+    "accesibilidad": "Parcial"
+  },
+  {
+    "id": "6",
+    "nombre": "Qorikancha - Templo del Sol",
+    "descripcion": "Templo inca más importante dedicado al Inti (dios sol), con arquitectura colonial superpuesta",
+    "direccion": "Santo Domingo, Cusco",
+    "distrito": "Cusco",
+    "coordenadas": {
+      "lat": -13.5183,
+      "lng": -71.9756
+    },
+    "categoria": "Sitio Arqueológico",
+    "capacidad": 500,
+    "servicios": ["Museo", "Guías", "Baños", "Tienda"],
+    "accesibilidad": "Limitada"
+  }
+]
