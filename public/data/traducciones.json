@@ -1,0 +1,293 @@
+{
+  "es": {
+    "nav": {
+      "inicio": "Inicio",
+      "explorar": "Explorar Eventos",
+      "calendario": "Calendario",
+      "mapa": "Mapa",
+      "publicar": "Publicar Evento",
+      "perfil": "Mi Perfil",
+      "admin": "Administración",
+      "idioma": "Idioma",
+      "iniciarSesion": "Iniciar Sesión",
+      "registrarse": "Registrarse",
+      "cerrarSesion": "Cerrar Sesión"
+    },
+    "home": {
+      "titulo": "Eventos Culturales Cusco",
+      "subtitulo": "Descubre la riqueza cultural del ombligo del mundo",
+      "heroText": "Conecta con las tradiciones ancestrales y eventos contemporáneos de la capital arqueológica de América",
+      "buscarEventos": "Buscar eventos...",
+      "eventosDestacados": "Eventos Destacados",
+      "categorias": "Categorías",
+      "proximosEventos": "Próximos Eventos",
+      "verTodos": "Ver Todos",
+      "filtrarPor": "Filtrar por:"
+    },
+    "eventos": {
+      "titulo": "Explorar Eventos",
+      "buscar": "Buscar eventos...",
+      "fecha": "Fecha",
+      "ubicacion": "Ubicación",
+      "categoria": "Categoría",
+      "precio": "Precio",
+      "organizador": "Organizador",
+      "valoracion": "Valoración",
+      "comentarios": "Comentarios",
+      "favoritos": "Favoritos",
+      "compartir": "Compartir",
+      "agregarFavoritos": "Agregar a Favoritos",
+      "verDetalle": "Ver Detalle",
+      "masInformacion": "Más Información"
+    },
+    "categorias": {
+      "todos": "Todos",
+      "festivales": "Festivales y celebraciones",
+      "musica": "Música y danza",
+      "arte": "Arte y exposiciones",
+      "gastronomia": "Gastronomía",
+      "talleres": "Talleres y educación",
+      "turismo": "Turismo cultural",
+      "familia": "Eventos familiares",
+      "gratuitos": "Eventos gratuitos"
+    },
+    "filtros": {
+      "hoy": "Hoy",
+      "estaSemana": "Esta semana",
+      "esteMes": "Este mes",
+      "gratuito": "Gratuito",
+      "pagado": "Pagado",
+      "ordenarPor": "Ordenar por:",
+      "fecha": "Fecha",
+      "popularidad": "Popularidad",
+      "cercanía": "Cercanía"
+    },
+    "auth": {
+      "iniciarSesion": "Iniciar Sesión",
+      "registrarse": "Registrarse",
+      "email": "Correo electrónico",
+      "contrasena": "Contraseña",
+      "confirmarContrasena": "Confirmar contraseña",
+      "nombre": "Nombre completo",
+      "telefono": "Teléfono",
+      "ciudad": "Ciudad",
+      "intereses": "Intereses culturales",
+      "tipoUsuario": "Tipo de usuario",
+      "visitante": "Visitante",
+      "organizador": "Organizador de eventos",
+      "artista": "Artista/Grupo cultural"
+    },
+    "admin": {
+      "panel": "Panel de Administración",
+      "estadisticas": "Estadísticas",
+      "gestionEventos": "Gestión de Eventos",
+      "gestionUsuarios": "Gestión de Usuarios",
+      "moderacion": "Moderación",
+      "reportes": "Reportes",
+      "configuracion": "Configuración"
+    },
+    "footer": {
+      "acercaDe": "Acerca de",
+      "contacto": "Contacto",
+      "privacidad": "Política de Privacidad",
+      "terminos": "Términos de Uso",
+      "ayuda": "Ayuda",
+      "derechosReservados": "Todos los derechos reservados",
+      "desarrolladoPor": "Desarrollado por estudiantes de Ingeniería de Sistemas - Universidad Andina del Cusco"
+    }
+  },
+  "en": {
+    "nav": {
+      "inicio": "Home",
+      "explorar": "Explore Events",
+      "calendario": "Calendar",
+      "mapa": "Map",
+      "publicar": "Publish Event",
+      "perfil": "My Profile",
+      "admin": "Administration",
+      "idioma": "Language",
+      "iniciarSesion": "Sign In",
+      "registrarse": "Sign Up",
+      "cerrarSesion": "Sign Out"
+    },
+    "home": {
+      "titulo": "Cusco Cultural Events",
+      "subtitulo": "Discover the cultural richness of the navel of the world",
+      "heroText": "Connect with ancestral traditions and contemporary events from the archaeological capital of America",
+      "buscarEventos": "Search events...",
+      "eventosDestacados": "Featured Events",
+      "categorias": "Categories",
+      "proximosEventos": "Upcoming Events",
+      "verTodos": "View All",
+      "filtrarPor": "Filter by:"
+    },
+    "eventos": {
+      "titulo": "Explore Events",
+      "buscar": "Search events...",
+      "fecha": "Date",
+      "ubicacion": "Location",
+      "categoria": "Category",
+      "precio": "Price",
+      "organizador": "Organizer",
+      "valoracion": "Rating",
+      "comentarios": "Comments",
+      "favoritos": "Favorites",
+      "compartir": "Share",
+      "agregarFavoritos": "Add to Favorites",
+      "verDetalle": "View Details",
+      "masInformacion": "More Information"
+    },
+    "categorias": {
+      "todos": "All",
+      "festivales": "Festivals and celebrations",
+      "musica": "Music and dance",
+      "arte": "Art and exhibitions",
+      "gastronomia": "Gastronomy",
+      "talleres": "Workshops and education",
+      "turismo": "Cultural tourism",
+      "familia": "Family events",
+      "gratuitos": "Free events"
+    },
+    "filtros": {
+      "hoy": "Today",
+      "estaSemana": "This week",
+      "esteMes": "This month",
+      "gratuito": "Free",
+      "pagado": "Paid",
+      "ordenarPor": "Sort by:",
+      "fecha": "Date",
+      "popularidad": "Popularity",
+      "cercanía": "Proximity"
+    },
+    "auth": {
+      "iniciarSesion": "Sign In",
+      "registrarse": "Sign Up",
+      "email": "Email",
+      "contrasena": "Password",
+      "confirmarContrasena": "Confirm password",
+      "nombre": "Full name",
+      "telefono": "Phone",
+      "ciudad": "City",
+      "intereses": "Cultural interests",
+      "tipoUsuario": "User type",
+      "visitante": "Visitor",
+      "organizador": "Event organizer",
+      "artista": "Artist/Cultural group"
+    },
+    "admin": {
+      "panel": "Administration Panel",
+      "estadisticas": "Statistics",
+      "gestionEventos": "Event Management",
+      "gestionUsuarios": "User Management",
+      "moderacion": "Moderation",
+      "reportes": "Reports",
+      "configuracion": "Settings"
+    },
+    "footer": {
+      "acercaDe": "About",
+      "contacto": "Contact",
+      "privacidad": "Privacy Policy",
+      "terminos": "Terms of Use",
+      "ayuda": "Help",
+      "derechosReservados": "All rights reserved",
+      "desarrolladoPor": "Developed by Systems Engineering students - Universidad Andina del Cusco"
+    }
+  },
+  "qu": {
+    "nav": {
+      "inicio": "Qallariy",
+      "explorar": "Raymikuna maskay",
+      "calendario": "Killakama",
+      "mapa": "Suyumap",
+      "publicar": "Raymi willakuy",
+      "perfil": "Ñuqap perfil",
+      "admin": "Kamachiy",
+      "idioma": "Rimay",
+      "iniciarSesion": "Yaykuy",
+      "registrarse": "Qillqakuy",
+      "cerrarSesion": "Lluqsiy"
+    },
+    "home": {
+      "titulo": "Qosqop Rayminkuna",
+      "subtitulo": "Teqsimuyup sonqon kulturanta riqsiy",
+      "heroText": "Ñawpa yachaykunawan kunan pachap rayminkuna tinkiy",
+      "buscarEventos": "Raymikunata maskay...",
+      "eventosDestacados": "Allin Raymikuna",
+      "categorias": "Rikchaykunap",
+      "proximosEventos": "Chayamunaq Raymikuna",
+      "verTodos": "Tukuy qaway",
+      "filtrarPor": "Akllaspa:"
+    },
+    "eventos": {
+      "titulo": "Raymikunata Maskay",
+      "buscar": "Raymikunata maskay...",
+      "fecha": "P'unchay",
+      "ubicacion": "Maypi",
+      "categoria": "Laya",
+      "precio": "Chanin",
+      "organizador": "Ruwaq",
+      "valoracion": "Chaninchaykuna",
+      "comentarios": "Rimaykuna",
+      "favoritos": "Munasqakuna",
+      "compartir": "Rakiy",
+      "agregarFavoritos": "Munasqaman yapay",
+      "verDetalle": "Sut'inchana qaway",
+      "masInformacion": "Aswan willakuy"
+    },
+    "categorias": {
+      "todos": "Tukuy",
+      "festivales": "Raymikunapas kusikuykunapas",
+      "musica": "Takipas tusupas",
+      "arte": "Arte qhawariykuna",
+      "gastronomia": "Mikhuykunapa yachaynin",
+      "talleres": "Yachana wasikuna",
+      "turismo": "Kulturap puriy",
+      "familia": "Ayllu raymikuna",
+      "gratuitos": "Mana chaniyuq raymikuna"
+    },
+    "filtros": {
+      "hoy": "Kunan p'unchay",
+      "estaSemana": "Kay semana",
+      "esteMes": "Kay killa",
+      "gratuito": "Mana chaniyuq",
+      "pagado": "Chaniyuq",
+      "ordenarPor": "Allichaspa:",
+      "fecha": "P'unchay",
+      "popularidad": "Riqsisqa kaqnin",
+      "cercanía": "Asuyaylla"
+    },
+    "auth": {
+      "iniciarSesion": "Yaykuy",
+      "registrarse": "Qillqakuy",
+      "email": "Chaski ñiqi",
+      "contrasena": "Pakana rimay",
+      "confirmarContrasena": "Pakana rimayta takyachiy",
+      "nombre": "Hunt'a suti",
+      "telefono": "Telefono",
+      "ciudad": "Llaqta",
+      "intereses": "Kulturaman munay",
+      "tipoUsuario": "Ruwaqpa kaynin",
+      "visitante": "Watukuq",
+      "organizador": "Raymikunata wakichiq",
+      "artista": "Takiq/Takiq huñu"
+    },
+    "admin": {
+      "panel": "Kamachina Panel",
+      "estadisticas": "Yupaykunapa",
+      "gestionEventos": "Raymikunata Kamachiy",
+      "gestionUsuarios": "Ruwaqkunata Kamachiy",
+      "moderacion": "Allichay",
+      "reportes": "Willaykunapa",
+      "configuracion": "Wakichiykunapa"
+    },
+    "footer": {
+      "acercaDe": "Imayna kasqanmanta",
+      "contacto": "Rimanakuy",
+      "privacidad": "Pakakuypa kamachiyninkunapa",
+      "terminos": "Llamk'anapaq rimaykuna",
+      "ayuda": "Yanapay",
+      "derechosReservados": "Tukuy derechokuna waqaychasqa",
+      "desarrolladoPor": "Sistemas Ruraypa yachaqkunaq ruwasqan - Universidad Andina del Cusco"
+    }
+  }
+}
