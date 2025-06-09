@@ -1,0 +1,410 @@
+{
+  "proyecto": {
+    "titulo": "Plataforma Móvil para la Difusión de Eventos Culturales en Cusco",
+    "version": "1.0.0",
+    "fecha_creacion": "2025-06-09",
+    "estado": "En Propuesta"
+  },
+  "universidad": {
+    "nombre": "Universidad Andina del Cusco",
+    "facultad": "Ingeniería y Arquitectura",
+    "escuela": "Ingeniería de Sistemas",
+    "curso": "Metodología de la investigación en ingeniería",
+    "docente": "Ing. SERNAQUE FERNANDEZ, PAULA BENANCIA",
+    "semestre": "2025-1"
+  },
+  "integrantes": [
+    {
+      "id": 1,
+      "nombre": "Baca Vivanco Sergio Sebastian",
+      "rol": "Desarrollador Frontend",
+      "especialidad": "Flutter & UI/UX"
+    },
+    {
+      "id": 2,
+      "nombre": "Socualaya Olivera Dante Joel",
+      "rol": "Desarrollador Backend",
+      "especialidad": "Node.js & Firebase"
+    },
+    {
+      "id": 3,
+      "nombre": "Tresierra Zamora Diego Andres",
+      "rol": "Analista de Sistemas",
+      "especialidad": "Arquitectura de Software"
+    },
+    {
+      "id": 4,
+      "nombre": "Villafuerte Andrade Justo Cristobher",
+      "rol": "Diseñador UX/UI",
+      "especialidad": "Diseño de Experiencia de Usuario"
+    }
+  ],
+  "objetivos": {
+    "general": "Desarrollar una aplicación móvil centralizada para la difusión de eventos culturales en Cusco, integrando un enfoque multilingüe (español, inglés, quechua), promoviendo el turismo cultural y apoyando artistas locales.",
+    "especificos": [
+      "Facilitar la publicación de eventos culturales",
+      "Ofrecer interfaz accesible en español, inglés y quechua",
+      "Implementar sistema de monitoreo de publicaciones",
+      "Promover interacción entre organizadores y público",
+      "Desarrollar arquitectura escalable del sistema"
+    ]
+  },
+  "tecnologias": {
+    "frontend": {
+      "principal": "Flutter",
+      "version": "3.16+",
+      "descripcion": "Framework multiplataforma de Google",
+      "ventajas": [
+        "Desarrollo multiplataforma con una sola base de código",
+        "Rendimiento nativo en iOS y Android",
+        "Hot reload para desarrollo rápido",
+        "UI consistente y personalizable"
+      ]
+    },
+    "backend": {
+      "principal": "Node.js",
+      "version": "18+",
+      "descripcion": "Entorno de ejecución JavaScript del lado del servidor",
+      "servicios": [
+        "Firebase Functions",
+        "Express.js para APIs REST",
+        "Middleware de autenticación",
+        "Gestión de archivos y media"
+      ]
+    },
+    "base_datos": {
+      "principal": "Firestore",
+      "tipo": "NoSQL",
+      "descripcion": "Base de datos en tiempo real de Firebase",
+      "caracteristicas": [
+        "Escalabilidad automática",
+        "Sincronización en tiempo real",
+        "Consultas complejas",
+        "Seguridad integrada"
+      ]
+    },
+    "servicios_adicionales": [
+      "Firebase Authentication",
+      "Google Maps API",
+      "Firebase Cloud Messaging",
+      "Firebase Analytics",
+      "Firebase Hosting"
+    ]
+  },
+  "funcionalidades": [
+    {
+      "categoria": "Gestión de Usuarios",
+      "items": [
+        "Registro y autenticación segura",
+        "Perfiles diferenciados (organizadores, usuarios, administradores)",
+        "Gestión de preferencias personales",
+        "Sistema de verificación de cuentas"
+      ]
+    },
+    {
+      "categoria": "Gestión de Eventos",
+      "items": [
+        "Creación y edición de eventos culturales",
+        "Subida de imágenes y multimedia",
+        "Categorización por tipo de evento",
+        "Programación y recordatorios"
+      ]
+    },
+    {
+      "categoria": "Búsqueda y Filtros",
+      "items": [
+        "Búsqueda por palabra clave",
+        "Filtros por categoría, fecha y ubicación",
+        "Búsqueda geográfica por proximidad",
+        "Recomendaciones personalizadas"
+      ]
+    },
+    {
+      "categoria": "Interacción Social",
+      "items": [
+        "Comentarios y valoraciones",
+        "Compartir eventos en redes sociales",
+        "Lista de favoritos personal",
+        "Seguimiento de organizadores"
+      ]
+    },
+    {
+      "categoria": "Notificaciones",
+      "items": [
+        "Notificaciones push personalizadas",
+        "Recordatorios de eventos guardados",
+        "Alertas de nuevos eventos por categoría",
+        "Confirmaciones de asistencia"
+      ]
+    }
+  ],
+  "metodologia": {
+    "nombre": "Extreme Programming (XP)",
+    "principios": [
+      "Entregas frecuentes y funcionales",
+      "Colaboración constante con usuarios finales",
+      "Desarrollo dirigido por pruebas (TDD)",
+      "Refactorización continua"
+    ],
+    "fases": [
+      {
+        "fase": "Planificación",
+        "duracion": "4 semanas",
+        "actividades": [
+          "Análisis de requisitos",
+          "Diseño de arquitectura",
+          "Prototipado inicial",
+          "Planificación de sprints"
+        ]
+      },
+      {
+        "fase": "Desarrollo",
+        "duracion": "8 semanas",
+        "actividades": [
+          "Desarrollo de MVP",
+          "Iteraciones semanales",
+          "Pruebas continuas",
+          "Integración de feedback"
+        ]
+      },
+      {
+        "fase": "Pruebas",
+        "duracion": "4 semanas",
+        "actividades": [
+          "Testing de usabilidad",
+          "Pruebas de rendimiento",
+          "Testing multilingüe",
+          "Corrección de bugs"
+        ]
+      },
+      {
+        "fase": "Despliegue",
+        "duracion": "4 semanas",
+        "actividades": [
+          "Configuración de producción",
+          "Migración de datos",
+          "Capacitación de usuarios",
+          "Monitoreo inicial"
+        ]
+      }
+    ]
+  },
+  "presupuesto": {
+    "total": 24530,
+    "moneda": "PEN",
+    "desglose": [
+      {
+        "categoria": "Recursos Humanos",
+        "monto": 22000,
+        "porcentaje": 89.7,
+        "descripcion": "Salarios del equipo de desarrollo durante 5 meses"
+      },
+      {
+        "categoria": "Infraestructura Tecnológica",
+        "monto": 530,
+        "porcentaje": 2.2,
+        "descripcion": "Servicios en la nube, APIs y herramientas de desarrollo"
+      },
+      {
+        "categoria": "Difusión y Capacitación",
+        "monto": 2000,
+        "porcentaje": 8.1,
+        "descripcion": "Marketing, material educativo y eventos de lanzamiento"
+      }
+    ]
+  },
+  "resultados_esperados": {
+    "impacto_comunitario": [
+      {
+        "metrica": "Reducción en dispersión de información",
+        "valor": 70,
+        "unidad": "porcentaje",
+        "descripcion": "Centralización de información cultural"
+      },
+      {
+        "metrica": "Incremento en asistencia a eventos",
+        "valor": 40,
+        "unidad": "porcentaje",
+        "descripcion": "Mayor participación en primer año"
+      },
+      {
+        "metrica": "Visitantes adicionales anuales",
+        "valor": 15000,
+        "unidad": "personas",
+        "descripcion": "Turistas atraídos por la plataforma"
+      },
+      {
+        "metrica": "Cobertura del público objetivo",
+        "valor": 95,
+        "unidad": "porcentaje",
+        "descripcion": "Con soporte de 3 idiomas"
+      }
+    ],
+    "aprendizaje_estudiantil": [
+      "Dominio de tecnologías modernas (Flutter, Firebase)",
+      "Implementación de metodologías ágiles en proyectos reales",
+      "Publicación de artículo técnico en revista institucional",
+      "Participación en ferias tecnológicas y eventos académicos",
+      "Desarrollo de habilidades blandas y trabajo en equipo"
+    ]
+  },
+  "cronograma": [
+    {
+      "mes": 1,
+      "titulo": "Planificación",
+      "descripcion": "Planificación y exploración de requisitos",
+      "entregables": [
+        "Documento de especificación de requisitos",
+        "Diseño de arquitectura del sistema",
+        "Prototipo de interfaz de usuario",
+        "Plan detallado de desarrollo"
+      ]
+    },
+    {
+      "mes": "2-3",
+      "titulo": "Desarrollo",
+      "descripcion": "Desarrollo iterativo y codificación",
+      "entregables": [
+        "Módulo de autenticación",
+        "Sistema de gestión de eventos",
+        "Interfaz de usuario básica",
+        "API de backend funcional"
+      ]
+    },
+    {
+      "mes": 4,
+      "titulo": "Pruebas",
+      "descripcion": "Pruebas y ajuste de funcionalidades",
+      "entregables": [
+        "Aplicación con funcionalidades completas",
+        "Informe de pruebas de usabilidad",
+        "Documentación técnica",
+        "Manual de usuario"
+      ]
+    },
+    {
+      "mes": 5,
+      "titulo": "Implementación",
+      "descripcion": "Implementación y despliegue",
+      "entregables": [
+        "Aplicación en tiendas (Play Store/App Store)",
+        "Infraestructura de producción",
+        "Plan de marketing y difusión",
+        "Informe final del proyecto"
+      ]
+    }
+  ],
+  "referencias": [
+    {
+      "autores": "Fajardo, J., & Carranza, D.",
+      "año": 2021,
+      "titulo": "El uso de las tecnologías móviles para la promoción de la cultura en contextos turísticos",
+      "tipo": "Artículo de investigación"
+    },
+    {
+      "autor": "Google",
+      "año": 2024,
+      "titulo": "Firebase pricing plans",
+      "tipo": "Documentación técnica",
+      "url": "https://firebase.google.com/pricing"
+    },
+    {
+      "autor": "Ministerio de Cultura del Perú",
+      "año": 2023,
+      "titulo": "Política nacional de lenguas originarias",
+      "tipo": "Documento oficial"
+    }
+  ],
+  "ambito_aplicacion": {
+    "usuarios_objetivo": [
+      {
+        "tipo": "Artistas y asociaciones culturales",
+        "descripcion": "Creadores y organizadores de eventos culturales en Cusco",
+        "necesidades": ["Plataforma de difusión", "Gestión de eventos", "Análisis de audiencia"]
+      },
+      {
+        "tipo": "Turistas",
+        "descripcion": "Visitantes interesados en actividades culturales",
+        "necesidades": ["Información actualizada", "Mapas y ubicaciones", "Soporte multilingüe"]
+      },
+      {
+        "tipo": "Residentes locales",
+        "descripcion": "Habitantes de Cusco interesados en cultura local",
+        "necesidades": ["Eventos cercanos", "Notificaciones personalizadas", "Comunidad local"]
+      },
+      {
+        "tipo": "Administradores",
+        "descripcion": "Personal encargado de moderar contenido",
+        "necesidades": ["Panel de control", "Herramientas de moderación", "Reportes y estadísticas"]
+      }
+    ],
+    "idiomas_soportados": [
+      {
+        "idioma": "Español",
+        "codigo": "es",
+        "prioridad": 1,
+        "porcentaje_usuarios": 70
+      },
+      {
+        "idioma": "Inglés",
+        "codigo": "en",
+        "prioridad": 2,
+        "porcentaje_usuarios": 25
+      },
+      {
+        "idioma": "Quechua",
+        "codigo": "qu",
+        "prioridad": 3,
+        "porcentaje_usuarios": 5
+      }
+    ]
+  },
+  "riesgos_y_mitigacion": [
+    {
+      "riesgo": "Baja adopción inicial de la aplicación",
+      "probabilidad": "Media",
+      "impacto": "Alto",
+      "mitigacion": "Campaña de marketing dirigida y partnerships con organizaciones culturales locales"
+    },
+    {
+      "riesgo": "Dificultades técnicas con la integración multilingüe",
+      "probabilidad": "Baja",
+      "impacto": "Medio",
+      "mitigacion": "Prototipado temprano y pruebas con hablantes nativos de quechua"
+    },
+    {
+      "riesgo": "Limitaciones presupuestarias",
+      "probabilidad": "Media",
+      "impacto": "Medio",
+      "mitigacion": "Desarrollo por fases con MVP funcional y búsqueda de fondos adicionales"
+    }
+  ],
+  "metricas_exito": [
+    {
+      "metrica": "Número de descargas",
+      "objetivo": 5000,
+      "plazo": "6 meses",
+      "tipo": "Cuantitativa"
+    },
+    {
+      "metrica": "Eventos publicados mensualmente",
+      "objetivo": 200,
+      "plazo": "3 meses",
+      "tipo": "Cuantitativa"
+    },
+    {
+      "metrica": "Satisfacción del usuario",
+      "objetivo": 4.5,
+      "plazo": "Continuo",
+      "tipo": "Cualitativa",
+      "escala": "1-5 estrellas"
+    },
+    {
+      "metrica": "Tiempo promedio en la aplicación",
+      "objetivo": 8,
+      "plazo": "Continuo",
+      "tipo": "Cuantitativa",
+      "unidad": "minutos"
+    }
+  ]
+}
