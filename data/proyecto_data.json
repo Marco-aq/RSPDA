@@ -1,6 +1,6 @@
 {
   "proyecto": {
-    "titulo": "Plataforma Móvil para la Difusión de Eventos Culturales en Cusco",
+    "titulo": "Plataforma para la Difusión de Eventos Culturales en Cusco",
     "version": "1.0.0",
     "fecha_creacion": "2025-06-09",
     "estado": "En Propuesta"
@@ -9,38 +9,38 @@
     "nombre": "Universidad Andina del Cusco",
     "facultad": "Ingeniería y Arquitectura",
     "escuela": "Ingeniería de Sistemas",
-    "curso": "Metodología de la investigación en ingeniería",
-    "docente": "Ing. SERNAQUE FERNANDEZ, PAULA BENANCIA",
+    "curso": "Plataformas para el Desarrollo de Aplicaciones",
+    "docente": "Carlos Ramon Quispe Onofre",
     "semestre": "2025-1"
   },
   "integrantes": [
     {
       "id": 1,
-      "nombre": "Baca Vivanco Sergio Sebastian",
+      "nombre": "Paucar Curasco, Rodrigo",
       "rol": "Desarrollador Frontend",
       "especialidad": "Flutter & UI/UX"
     },
     {
       "id": 2,
-      "nombre": "Socualaya Olivera Dante Joel",
+      "nombre": "Cardenas Quispe, Marco Antonio",
       "rol": "Desarrollador Backend",
       "especialidad": "Node.js & Firebase"
     },
     {
       "id": 3,
-      "nombre": "Tresierra Zamora Diego Andres",
+      "nombre": "Villafuerte Andrade Justo Cristobher",
       "rol": "Analista de Sistemas",
       "especialidad": "Arquitectura de Software"
     },
     {
       "id": 4,
-      "nombre": "Villafuerte Andrade Justo Cristobher",
+      "nombre": "Pilares Zamata, Rodrigo Wilson",
       "rol": "Diseñador UX/UI",
       "especialidad": "Diseño de Experiencia de Usuario"
     }
   ],
   "objetivos": {
-    "general": "Desarrollar una aplicación móvil centralizada para la difusión de eventos culturales en Cusco, integrando un enfoque multilingüe (español, inglés, quechua), promoviendo el turismo cultural y apoyando artistas locales.",
+    "general": "Desarrollar una aplicación centralizada para la difusión de eventos culturales en Cusco, integrando un enfoque multilingüe, promoviendo el turismo cultural y apoyando artistas locales.",
     "especificos": [
       "Facilitar la publicación de eventos culturales",
       "Ofrecer interfaz accesible en español, inglés y quechua",
