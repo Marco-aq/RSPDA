@@ -11,6 +11,7 @@
 - **Paucar Curasco Rodrigo**
 - **Villafuerte Andrade Justo Cristobher**  
 - **Cardenas Quispe, Marco Antonio**
+- **Pilares Zamata, Rodrigo Wilson**
 
 ## 🎯 Descripción del Proyecto
 
